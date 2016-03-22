@@ -2,9 +2,11 @@
 # $Id$ - for use with svn version control#
 =head1 NAME
 
-load-ssndi - load ssn death index records into the database
+load-ssndi - load ssn death index records into a local database
 
 =head1 SYNOPSIS
+
+A script to automatically download and load death index updates into a local database. Uses wget for downloads.
 
 =head1 DESCRIPTION
 

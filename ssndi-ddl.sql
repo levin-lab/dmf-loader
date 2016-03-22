@@ -1,5 +1,4 @@
 /***
-* $Id: ssndi-ddl.sql 1375 2011-11-26 01:27:56Z patrick $
 * Table to hold data from the social security death master file aka death index
 * See https://dmf.ntis.gov/recordlayout.pdf
 * Status is blank for full file, one of 'A', 'C', or 'D' for updates
